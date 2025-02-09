@@ -1,3 +1,5 @@
+# Coding Questions 02 Week 02
+# First Name: Khaila, Last Name: Franco
 import random
 
 # Define Variables
